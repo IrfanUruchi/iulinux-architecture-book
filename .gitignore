@@ -1,0 +1,19 @@
+# Keep the privately maintained manuscript and build environment out of the public repository.
+*.tex
+*.sty
+*.cls
+*.bib
+*.zip
+*.log
+*.aux
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+source/
+private/
+build/
+proof/
+.venv/
+.DS_Store

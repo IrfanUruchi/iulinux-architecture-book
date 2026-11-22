@@ -1,0 +1,18 @@
+# Citation File Format 1.2.0
+cff-version: 1.2.0
+message: "Please cite this version of the book when referring to its content."
+authors:
+  - family-names: Uruchi
+    given-names: Irfan
+title: "IULinux: Designing and Building a Linux Distribution"
+abstract: "Architecture, implementation, and testing of the IULinux Alpha, including system integration, image construction, package management, power control, and verification."
+version: "0.3.5"
+date-released: 2026-11-22
+license: CC-BY-NC-ND-4.0
+preferred-citation:
+  type: book
+  authors:
+    - family-names: Uruchi
+      given-names: Irfan
+  title: "IULinux: Designing and Building a Linux Distribution"
+  year: 2026
