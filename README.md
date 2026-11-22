@@ -19,7 +19,11 @@ The full bibliography and in-text citations appear in the PDF.
 
 ## Cite
 
-Use [CITATION.cff](CITATION.cff) or [CITATION.md](CITATION.md). No ISBN or DOI has been assigned to this edition.
+Cite the **exact v0.3.5 edition** using its Zenodo DOI: [10.5281/zenodo.24443249](https://doi.org/10.5281/zenodo.24443249).
+
+For the **book across editions**, use the concept DOI: [10.5281/zenodo.24443248](https://doi.org/10.5281/zenodo.24443248).
+
+Machine-readable and formatted citations: [CITATION.cff](CITATION.cff) · [CITATION.md](CITATION.md). This edition has no ISBN.
 
 ## Rights and corrections
 

@@ -11,3 +11,9 @@ The 70-page PDF covers the IULinux Alpha image and installer, source-to-installe
 **Release assets:** PDF and its SHA-256 checksum. Editable manuscript sources are not distributed publicly.
 
 **License:** CC BY-NC-ND 4.0 for original author-owned text and figures, except where credited; third-party rights remain with their owners.
+
+## Zenodo archive
+
+Version DOI: https://doi.org/10.5281/zenodo.24443249
+
+All-versions DOI: https://doi.org/10.5281/zenodo.24443248

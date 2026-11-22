@@ -4,9 +4,11 @@ message: "Please cite this version of the book when referring to its content."
 authors:
   - family-names: Uruchi
     given-names: Irfan
+    orcid: https://orcid.org/0009-0000-9036-8172
 title: "IULinux: Designing and Building a Linux Distribution"
 abstract: "Architecture, implementation, and testing of the IULinux Alpha, including system integration, image construction, package management, power control, and verification."
 version: "0.3.5"
+doi: 10.5281/zenodo.24443249
 date-released: 2026-11-22
 license: CC-BY-NC-ND-4.0
 preferred-citation:
@@ -16,3 +18,5 @@ preferred-citation:
       given-names: Irfan
   title: "IULinux: Designing and Building a Linux Distribution"
   year: 2026
+  doi: 10.5281/zenodo.24443249
+  publisher: Zenodo
